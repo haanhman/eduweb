@@ -116,6 +116,7 @@ div.title h2, div.title h1 {
     padding-left: 10px;
     display: block;
     float: left;
+    font-size: 23px;
 }
 
 div.content {
