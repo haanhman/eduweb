@@ -20,8 +20,7 @@ function htmlEncode($string) {
         <title><?php echo $current_page['title'] ?></title>
         <meta name="description" content="<?php echo htmlEncode($current_page['description']) ?>" />
         <meta name="keywords" content="<?php echo htmlEncode($current_page['keywords']) ?>" />
-        <meta charset="UTF-8">        
-        <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+        <meta charset="UTF-8">               
         <link href="/css/style.css" rel="stylesheet" />
         <script type="text/javascript" src="/js/jquery.js"></script>                       
     </head>

@@ -113,7 +113,7 @@
             </a>
         </li>
         <li>
-            <a href="#" target="_blank">
+            <a href="https://play.google.com/store/apps/details?id=com.earlystart.android.monkeyjunior" target="_blank">
                 <img src="/images/android.png" alt="" />
             </a>
         </li>

@@ -8,8 +8,8 @@
 IndexIgnore */*
 RewriteEngine on
 
-#RewriteCond %{HTTP_HOST} ^monkeyjunior.com [NC]
-#RewriteRule ^(.*)$ http://www.monkeyjunior.com/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^monkeyjunior.com [NC]
+RewriteRule ^(.*)$ http://www.monkeyjunior.com/$1 [L,R=301]
 
 
 # If a directory or a file exists, use it directly.
