@@ -109,7 +109,7 @@ div.title .chicken {
     float: left;
     background:  url(../images/chicken.png) no-repeat;
 }
-div.title h2 {
+div.title h2, div.title h1 {
     font-family: Big_Bottom;
     color: white;
     font-weight: normal;

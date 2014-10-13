@@ -5,6 +5,7 @@ $mobile = false;
 if (($detect->isMobile() | $detect->isTablet())) {
     $mobile = true;
 }
+
 require_once 'page.php';
 global $page;
 $p = isset($_GET['page']) ? trim($_GET['page']) : 'homepage';

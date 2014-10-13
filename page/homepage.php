@@ -163,7 +163,7 @@
 </div>
 <div class="title">
     <span class="chicken"></span>
-    <h2>About Monkey Junior</h2>
+    <h1>Monkey Junior</h1>
 </div>
 <div class="clear"></div>
 
