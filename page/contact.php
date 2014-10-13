@@ -7,6 +7,8 @@
 </div>
 <div class="clear"></div>
 
-<div class="content">
-    <p>If you have any questions, please do not hesitate to contact us at support@monkeyjunior.com</p>
+<div class="content contact">
+    <div class="inner">
+        <p>If you have any questions, please do not hesitate to contact us at <a href="mailto:support@monkeyjunior.com">support@monkeyjunior.com</a></p>
+    </div>    
 </div>

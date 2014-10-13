@@ -225,3 +225,14 @@ div.center {
     width: 100%;
     z-index: 1;
 }
+
+.contact {
+    background: url("../images/mail.png") no-repeat scroll right 0 rgba(0, 0, 0, 0);
+    min-height: 420px;
+}
+.contact .inner {
+    width: 640px;
+}
+.contact .inner a {
+    color: #596211;
+}

@@ -90,7 +90,7 @@
         </div>
 
         <?php
-        for ($i = 1; $i < 9; $i++) {
+        for ($i = 1; $i <= 3; $i++) {
             ?>
             <div class="slide" step="<?php echo $i ?>">
                 <div class="item">
@@ -121,7 +121,7 @@
 </div>
 <script type="text/javascript" src="/js/slides.js"></script>
 <script type="text/javascript">
-    var total = 8;
+    var total = 3;
     var current = 0;
     $(function () {
         $('#slides').slides({
