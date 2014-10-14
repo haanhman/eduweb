@@ -9,6 +9,8 @@
 
 <div class="content contact">
     <div class="inner">
-        <p>If you have any questions, please do not hesitate to contact us at <a href="mailto:support@monkeyjunior.com">support@monkeyjunior.com</a></p>
+        <p>If you have any questions, please do not hesitate to contact us at 
+            <img src="/images/email.png" alt="" />
+        </p>
     </div>    
 </div>
