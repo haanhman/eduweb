@@ -20,8 +20,8 @@ $page = array(
         'description' => 'This is the Privacy Policy for Monkey Junior'
     ),
     'terms' => array(
-        //'link' => 'terms-and-conditions.html',
-        'link' => '#',
+        'link' => 'terms-and-conditions.html',
+        //'link' => '#',
         'title' => 'Terms and conditions',
         'keywords' => 'Keyword Terms and conditions',
         'description' => 'mo ta Terms and conditions'
