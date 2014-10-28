@@ -112,8 +112,12 @@ $app = mysql_fetch_assoc($result);
                         if ($i == $page) {
                             $img = '/images/moreapp/3.png';
                         }
+                        $url = $_SERVER['REDIRECT_URL'];
+                        if($i > 1) {
+                            $url .= '?page='.$i;
+                        }
                         ?>
-                        <a href="<?php echo $_SERVER['REDIRECT_URL'] . '?page=' . $i ?>" title="Page <?php echo $i ?>">
+                        <a href="<?php echo $url ?>" title="Page <?php echo $i ?>">
                             <img src="<?php echo $img ?>"  alt="Page <?php echo $i ?>" /></a>
                         <?php
                     }
