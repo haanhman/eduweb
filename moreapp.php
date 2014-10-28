@@ -126,7 +126,7 @@ $app = mysql_fetch_assoc($result);
                 <?php
             }
             ?>
-            <img class="close" src="/images/moreapp/2.png" alt="" style="width: 50px;" />
+                    <a href="close.php"><img class="close" src="/images/moreapp/2.png" alt="" style="width: 50px;" /></a>
         </div>
     </body>
 </html>
