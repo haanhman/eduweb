@@ -102,10 +102,10 @@ $app = mysql_fetch_assoc($result);
                 }
                 echo '</ul>';
             }
-
+            echo '<div class="clear"></div>';
             if ($totalPage > 1) {
                 ?>
-                <div class="phantrang clear">
+                <div class="phantrang">
                     <?php
                     for ($i = 1; $i <= $totalPage; $i++) {
                         $img = '/images/moreapp/4.png';
