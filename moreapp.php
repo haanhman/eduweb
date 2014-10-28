@@ -5,7 +5,7 @@ require_once 'config.php';
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-$perpager = 4;
+$perpager = 8;
 $app_id = $_REQUEST['appid'];
 $os = strtolower($_REQUEST['os']);
 $os_type = 1;
