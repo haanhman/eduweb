@@ -8,15 +8,28 @@
 IndexIgnore */*
 RewriteEngine on
 
+
+
 RewriteCond %{HTTP_HOST} ^monkeyjunior.com [NC]
 RewriteRule ^(.*)$ http://www.monkeyjunior.com/$1 [L,R=301]
 
-
+RewriteRule ^(css|images|js)($|/) - [L]
 # If a directory or a file exists, use it directly.
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
+
+
 # Otherwise forward it to index.php.
+RewriteRule ^android-educational-apps/$ moreapp.php?appid=2&os=android&%{QUERY_STRING} [L]
+RewriteRule ^android-educational-apps$ moreapp.php?appid=2&os=android&%{QUERY_STRING} [L]
+
+RewriteRule ^ios-educational-apps$ moreapp.php?appid=2&os=ios&%{QUERY_STRING} [L]
+RewriteRule ^ios-educational-apps/$ moreapp.php?appid=2&os=ios&%{QUERY_STRING} [L]
+
+RewriteRule ^more-apps/(ios|android)/(\w+)$ moreapp.php?appid=$2&os=$1&%{QUERY_STRING} [L]
+
+
 RewriteRule / index.php?$1 [L,QSA]
 RewriteRule ^contact-us.html$ index.php?page=contact [L]
 RewriteRule ^terms-and-conditions.html$ index.php?page=terms [L]
