@@ -64,8 +64,6 @@ $app = mysql_fetch_assoc($result);
         <link href="/css/moreapp.css" rel="stylesheet" />
     </head>
     <body>
-        <div class="line1">&nbsp;</div>
-        <div class="line2">&nbsp;</div>
         <div id="container">
             <h1>
                 <img src="/images/moreapp/1.png" alt="Games and apps powered by Early Start" />
