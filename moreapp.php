@@ -53,9 +53,9 @@ $app = mysql_fetch_assoc($result);
 <html>
     <head>
         <?php
-        if ($app_id != 2) {
+        //if ($app_id != 2) {
             echo '<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">';
-        }
+        //}
         ?>
         <title><?php echo $app['info'] ?></title>
         <meta name="description" content="" />
