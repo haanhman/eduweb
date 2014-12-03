@@ -71,7 +71,12 @@ $app = mysql_fetch_assoc($result);
             </h1>
             <?php
             if (!empty($listItem)) {
-                $domain_thumbnail = 'http://data.behocchu.com';
+                global $vn;
+                if(!$vn) {
+                    $domain_thumbnail = 'http://data.behocchu.com';
+                } else {
+                    $domain_thumbnail = 'http://data.daybehoc.com';
+                }
                 echo '<ul>';
                 $i = 0;
                 foreach ($listItem as $item) {

@@ -1,6 +1,9 @@
 <?php
 $host = 'localhost';
+global $vn;
+$vn = false;
 if($_GET['vn'] == 1) {
+    $vn = true;
     $host = '123.30.236.70';
 }
         
