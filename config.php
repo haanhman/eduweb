@@ -1,7 +1,11 @@
 <?php
-
+$host = 'localhost';
+if($_GET['vn'] == 1) {
+    $host = '123.30.236.70';
+}
+        
 $mysql_config = array(
-    'host' => 'localhost',
+    'host' => $host,
     'username' => 'eduuser',
     'password' => 'Eadux23X',
     'db_global' => 'edu_global',
