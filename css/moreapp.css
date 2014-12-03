@@ -57,6 +57,7 @@ ul li {
     width: 175px;
     display: block;
     float: left;
+    padding-bottom: 15px;
 }
 ul li.pd {margin-left: 50px;}
 
