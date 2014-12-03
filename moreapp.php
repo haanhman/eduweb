@@ -62,6 +62,7 @@ $app = mysql_fetch_assoc($result);
         <meta name="keywords" content="" />
         <meta charset="UTF-8">               
         <link href="/css/moreapp.css" rel="stylesheet" />
+        <script src="/js/jquery.js" type="text/javascript"></script>
     </head>
     <body>
         <div id="container">
@@ -77,7 +78,7 @@ $app = mysql_fetch_assoc($result);
                 } else {
                     $domain_thumbnail = 'http://data.daybehoc.com';
                 }
-                echo '<ul>';
+                echo '<ul class="app">';
                 $i = 0;
                 foreach ($listItem as $item) {
                     $thumbnail = '';
@@ -131,5 +132,16 @@ $app = mysql_fetch_assoc($result);
             ?>
                     <a href="/close.php"><img class="close" src="/images/moreapp/2.png" alt="" style="width: 50px;" /></a>
         </div>
+        <script type="text/javascript">
+            $(function(){
+                var max_height = 0;
+                $('ul.app li').each(function(){
+                    if($(this).height() > max_height) {
+                        max_height = $(this).height();
+                    }
+                });
+                $('ul.app li').css('height', max_height);
+            });
+        </script>
     </body>
 </html>
