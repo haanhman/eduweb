@@ -34,7 +34,9 @@ while ($row = mysql_fetch_assoc($result)) {
     $listapp[] = $row['app_id'];
 }
 if (empty($listapp)) {
-    die('No data!');
+    echo 'No data!<br /><br /><br />';
+    echo '<a href="/close.php">Close</a>';
+    die;
 }
 $query = "SELECT id, info, thumbnail_ios, thumbnail_android, url_ios, url_android FROM tbl_list_app WHERE id IN (" . implode(',', $listapp) . ") ORDER BY id DESC";
 $result = mysql_query($query);
