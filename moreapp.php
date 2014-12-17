@@ -65,7 +65,7 @@ $app = mysql_fetch_assoc($result);
         <meta charset="UTF-8">               
         <link href="/css/moreapp.css" rel="stylesheet" />
         <script src="/js/jquery.js" type="text/javascript"></script>
-        <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta name="viewport" content="width=device-width" />
     </head>
     <body>
         <div id="container">
