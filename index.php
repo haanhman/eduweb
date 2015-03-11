@@ -81,8 +81,7 @@ function htmlEncode($string) {
                     </div>                    
                 </div>
             </div>
-        </div>
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- bottom_monkeyjunior -->
         <ins class="adsbygoogle"
              style="display:inline-block;width:728px;height:90px"
@@ -91,5 +90,6 @@ function htmlEncode($string) {
         <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
+        </div>        
     </body>
 </html>
