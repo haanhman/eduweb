@@ -82,6 +82,14 @@ function htmlEncode($string) {
                 </div>
             </div>
         </div>
-
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- bottom_monkeyjunior -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:728px;height:90px"
+             data-ad-client="ca-pub-5253078296717317"
+             data-ad-slot="6772322380"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
     </body>
 </html>
