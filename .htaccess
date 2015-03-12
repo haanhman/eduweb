@@ -21,6 +21,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 
 
 # Otherwise forward it to index.php.
+RewriteRule ^subscribe$ subscribe.php
 RewriteRule ^android-educational-apps/$ moreapp.php?appid=2&os=android&%{QUERY_STRING} [L]
 RewriteRule ^android-educational-apps$ moreapp.php?appid=2&os=android&%{QUERY_STRING} [L]
 
