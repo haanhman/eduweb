@@ -85,23 +85,38 @@
     <div class="slides_container">
         <div class="slide" step="0">
             <div class="item">
-                <iframe width="708" height="505" src="//www.youtube.com/embed/jTjiahl1KEo?rel=0&amp;controls=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>                
+                <iframe width="708" height="505" src="//www.youtube.com/embed/yyrB0_hJ8wg?rel=0&amp;controls=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>                
             </div>
         </div>
 
         <div class="slide">
             <div class="item">
-                <img src="/images/slides/1.png" alt="Monkey Junior - Play modes" />
+                <img src="/images/slides/1.jpg" alt="Reading program for kids" />
             </div>
         </div>
         <div class="slide">
             <div class="item">
-                <img src="/images/slides/2.png" alt="Monkey Junior - Game modes" />
+                <img src="/images/slides/2.jpg" alt="Monkey Junior" />
             </div>
         </div>
         <div class="slide">
             <div class="item">
-                <img src="/images/slides/3.png" alt="Monkey Junior App" />
+                <img src="/images/slides/3.jpg" alt="Reading games" />
+            </div>
+        </div>
+        <div class="slide">
+            <div class="item">
+                <img src="/images/slides/4.jpg" alt="Learn to read" />
+            </div>
+        </div>
+        <div class="slide">
+            <div class="item">
+                <img src="/images/slides/5.jpg" alt="Flash card" />
+            </div>
+        </div>
+        <div class="slide">
+            <div class="item">
+                <img src="/images/slides/6.jpg" alt="Learn to read" />
             </div>
         </div>
 
@@ -172,18 +187,6 @@
 <div class="clear"></div>
 
 <div class="content">
-    <p>Monkey Junior offers comprehensive reading courses for babies, toddlers and preschoolers that teach your child to read, progressing from single words to phrases, from short sentences to very complicated ones. Monkey Junior is developed in collaboration with early education experts and adopts the scientifically proven methodologies proposed by famous researchers, such as Glenn Doman, Shichida and Maria Montessori.</p>
-    <p>Each word is presented in different ways: In varying fonts, colors and sizes; as a stand-alone word or in a sentence; with high-quality pictures and videos, and in three different voices (male, female and child). This variety in presentation will help your child to understand the concepts and will reinforce them, laying the foundation for reading and forming sentences.</p>
-    <p>Best of all, new courses are released every month. New languages are being added, too. We&rsquo;re starting with English (American English, British English, and Australian English), but French, Spanish, Vietnamese, Chinese and Japanese are on the way!</p>
-    <p>SUPPORT FOR MULTIPLE PROFILES/LEARNERS<br />- Each child is assigned a suitable level of difficulty depending on his/her reading comprehension level.<br />- Add multiple users and switch between user accounts.<br />- Save and track user progress, app settings at user level.</p>
-    <p>RICH AND HIGH QUALITY CONTENT:<br />- Each course contains a total of 3000 words.<br />- A course has ten different categories such as colors, counting, actions, baby things, and more.<br />- A course has approximately 50 lessons.<br />- Lessons are never the same.<br />- A word has three fonts, five colors, three high quality pictures, four sentences, up to four videos, and three different voices.<br />- All courses feature wonderful sound effects and professional voice-overs.</p>
-    <p><br />ENGAGING GAME MODES<br />- Different game modes will reinforce your child&rsquo;s learning experience.<br />- Games are adjusted and customized by the individual&rsquo;s progress.</p>
-    <p><br />AWARD SYSTEM<br />- Stickers are awarded after each lesson.<br />- Children can use stickers to build their own farms or rooms.<br />- Motivate your child to engage more with the app and to keep learning with new lessons.</p>
-    <p>NEW CONTENT ADDED EVERY MONTH<br />- A new course is released every month.<br />- New languages are being added.</p>
-    <p><br />FLASHCARDS<br />- Flashcards can be configured to run in different modes: flashcard (picture + word), only picture, only word, word then picture, picture then word<br />- The flash card interval can be changed from 0.1 second (super fast) to 3 seconds (super slow)</p>
-    <p><br />DOWNLOAD THE MONKEY JUNIOR APP NOW and enjoy the reading journey with your little ones!!!</p>
-    <p><br />About Us<br />Monkey Junior is developed by Early Start Co. As we specialize in early education, our motto is, &ldquo;Education starts at birth&rdquo;. We believe that education should be joyful and engaging. We have helped many children to become confident early readers, and we can help your child to be one, too.</p>
-    <p>Support<br />Have questions? We are here to help. Email us at support@monkeyjunior.com</p>
-
+    <div><p>Monkey Junior offers a comprehensive reading program for kids with multiple reading games which will help them to learn to read and expand their vocabulary. With a wide range of reading for kids courses (and growing), you will find suitable courses and reading activities that suit your child’s current reading skills. <p>To learn more about our methodologies, please watch our app overview video here <a href="https://www.youtube.com/watch?v=yyrB0_hJ8wg">https://www.youtube.com/watch?v=yyrB0_hJ8wg</a></p><p>Monkey Junior is divided into three different reading levels: easy, medium and advanced. Easy courses teach your kids to read individual words. Medium courses help your little readers to learn to read simple sentences. Advanced courses are suitable to 1st grade readers for enhancing their reading fluency and skills in sentence formation. </p><p>The reading program covers hundreds of different reading topics for kids ranging from things at home, shapes, body parts, toys, actions, fruit and vegetables to wild animals, insect, nature, transportation, occupations, businesses and science and more than 100 different phonics rules. </p><p>Each course consists of around 80 unique lessons with 300+ sight words in 30 topics and 250 high quality images, 150 videos and 3 fabulous voice-over and multiple reading games. The curriculum is designed in such a way that each lesson is taken daily. Our reading program uses sight, sound and touch to keep your child engaged in the whole lesson. The images and interactive videos help to illustrate the words and the sentences to increase their reading comprehension. Your children will enjoy a completely tailored reading games at the end of each lesson that they can play and learn to read at their own pace.  </p><p>Our interactive reading program is developed in collaboration with early education experts/teachers and adopts the sight word approaches proposed by famous researchers, such as Glenn Doman, Shichida and Maria Montessori. Whether you are looking for how to teach your babies/toddlers to learn to read or how to help your kindergarteners or primary schoolers to improve their reading level, this reading app is perfect for you. It gives your child a super head start in reading and it works great for preschool, kindergarten or early primary school.</p><p>FEATURES:<br>- Learn phonics and pronunciation<br>- Gain a reading vocabulary of 3000+ sight words in a wide range of topics<br>- Increase your child’s knowledge in many areas.<br>- Learn sight words and sentence formation<br>- Read along as the words are highlighted</p><p>MULTIPLE PROFILES/LEARNERS<br>- Each child is assigned a suitable level of difficulty depending on his/her reading comprehension level.<br>- Add multiple users and switch between user accounts.<br>- Save and track user progress, app settings at user level.</p><p>RICH AND HIGH QUALITY CONTENT:<br>- Each course contains approximately a total of 3000+ words, 150 videos, 250 images, 2200 audios and 3 different voices.<br>- A course has approximately 70 lessons.<br>- Lessons are never the same.</p><p>READING GAMES<br>- Different reading games will reinforce your child’s learning experience.<br>- Reading games are adjusted and customized by the individual’s progress.</p><p>AWARD SYSTEM<br>- Stickers are awarded after each lesson.</p><p>NEW CONTENT<br>- A new course is released every month.<br>- New languages are being added.</p><p>FLASHCARDS<br>- Flashcards can be configured to run in different modes: flashcard (picture + word), only picture, only word, word then picture, picture then word<br>- The flash card interval can be changed from 0.1 second (super fast) to 3 seconds (super slow)</p><p>DOWNLOAD MONKEY JUNIOR NOW TO HELPS YOUR CHILD TO LEARN TO READ!</p><p>About Us<br>Monkey Junior is developed by Early Start Co. As we specialize in early education, our motto is, “Education starts at birth”. We believe that education should be joyful and engaging. We have helped many children to become confident early readers, and we can help your kids to be one, too.</p><p>Support<br>Have questions? We are here to help. Email us at <a href="mailto:support@monkeyjunior.com">support@monkeyjunior.com</a></p></div>
 </p>
 </div>

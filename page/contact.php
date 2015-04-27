@@ -9,8 +9,11 @@
 
 <div class="content contact">
     <div class="inner">
-        <p>If you have any questions, please do not hesitate to contact us at 
+        <p>
+            If you have any questions, please do not hesitate to contact us at             
             <img src="/images/email.png" alt="" />
+            <br />
+            Address: 12D8 Thanh Xuan Bac, Thanh Xuan - Ha Noi
         </p>
     </div>    
 </div>
